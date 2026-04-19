@@ -1,4 +1,5 @@
 📊 Big Data Analytics using PySpark
+
 🚀 Overview
 This project demonstrates the implementation of core Big Data Analytics techniques using PySpark MLlib:
 
@@ -14,12 +15,13 @@ Detect fraudulent transactions using classification models
 Segment customers based on behavior using clustering
 Build a recommendation system using collaborative filtering
 🛠️ Technologies Used
-Python 🐍
-PySpark ⚡
-Google Colab ☁️
-Pandas 🧮
-Matplotlib 📈
-Seaborn 🎨
+1.Python 🐍
+2.PySpark ⚡
+3.Google Colab ☁️
+4.Pandas 🧮
+5.Matplotlib 📈
+6.Seaborn 🎨
+
 📂 Datasets Used
 1️⃣ Classification – Credit Card Fraud Detection
 Real-world dataset with highly imbalanced classes
